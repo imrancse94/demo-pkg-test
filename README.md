@@ -15,6 +15,6 @@ Manager
 user@manager.com
 123456
 ```
-There is a feature test. Run just `php artisan test`
+There is a feature test. Run just `php artisan test --filter=PreOrderTest`
 
 *Demo URL*: [https://test.imranwebs.dev/grocery](https://test.imranwebs.dev/grocery)
